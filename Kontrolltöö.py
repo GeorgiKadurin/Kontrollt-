@@ -21,7 +21,7 @@ while True:
         print("3 - Otsige üles kõige kallim kaup")#+
         print("4 - Leia odavaim kaup")#+
         print("5 - Leidke soovitud kauba hind")#+
-        print("6 - Uuri, kas on sama hinnaga toodet, leia mitu sellist toodet ja kuva andmed ekraanile.")
+        print("6 - Uuri, kas on sama hinnaga toodet, leia mitu sellist toodet ja kuva andmed ekraanile.")#+
         print("7 - Lõpetage programm")#+
 
         tegevust = int(input("Valige toiming: "))
